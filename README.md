@@ -20,3 +20,19 @@ shipping modes and regions that contribute most to delivery delays.
 - NumPy
 - Matplotlib
 - Seaborn
+
+
+## Key Findings
+- Standard shipping shows higher delivery delays
+- Certain regions experience consistent late deliveries
+- Late delivery risk aligns with actual delivery delays
+
+## Business Recommendations
+- Optimize standard shipping logistics
+- Monitor high-delay regions closely
+- Improve delivery time estimation
+
+## Conclusion
+This project used exploratory data analysis to identify supply chain
+lead-time inefficiencies and logistics bottlenecks. The insights can help
+improve delivery reliability and customer satisfaction.
